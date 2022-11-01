@@ -20,6 +20,13 @@ name = "CVL"
 name # "CVL"
 
 puts "Nicknames are sometimes better so I am now #{name}"
+ 
+name = "CVL"
+name # "CVL"
+name = "Conner"
+name # "Conner"
+
+puts "On second thought, I'll stick with #{name}"
 
 
 
